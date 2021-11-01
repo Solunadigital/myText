@@ -11,7 +11,7 @@
     "appIcon": "https://play-lh.googleusercontent.com/XyBxT_J0dOA-xS46Nba8ikA-2sKp4B83QNigMCTU7uxLBgAMzXkmnDacBiy_YyGv0g=s180-rw",
     "titleBy": "by GarApp Properti",
     "appName": "Kataloog Jual dan Beli",
-    "appDescription": "Download Aplikasi kataloog sekarang juga ! jadikan bagian dari usaha kamu supaya bisa terhubung dengan ribuan pembeli dan penjual lainnya.",
+    "appDescription": "Jadikan bagian dari usaha kamu supaya bisa terhubung dengan ribuan pembeli dan penjual lainnya.",
     "url": "https://play.google.com/store/apps/details?id=com.kataloog.id",
     "enableWeb":false
   },
@@ -45,6 +45,14 @@
     "appName": "Bass YT",
     "appDescription": "This application is specially designed for audio effects on Streaming music player applications, produces an amazing sound, gets optimal sound by activating the Bass Booster and Equalizer effects.",
     "url": "https://play.google.com/store/apps/details?id=bass.booster.yt",
+    "enableWeb":false
+  },
+  {
+    "appIcon": "https://play-lh.googleusercontent.com/xWBcTaR-Rj-JBJVFI74sVi5yjXJhK2yijzZsq1lE7ZKng_Xdm1HqBd0JPDECXT3uigc=s180-rw",
+    "titleBy": "by Cakrawala Apps",
+    "appName": "Audio Recorder Lite - Voice Recorder",
+    "appDescription": "Free and easy to use audio recorder for Android, the best audio recorder with amazing audio quality! it's free.",
+    "url": "https://play.google.com/store/apps/details?id=com.audio.recorder.lite",
     "enableWeb":false
   }
   
