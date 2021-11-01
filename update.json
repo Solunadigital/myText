@@ -1,0 +1,54 @@
+
+
+[
+  {
+    "appIcon": "https://play-lh.googleusercontent.com/GOxJiVFVAVzv0eI16oClq8RwQnuzwYj3Ecuj9ybCe4DNtkCmoXa2zq6-quJAuj1P9g=s180-rw",
+    "titleBy": "by AudiosMaxs",
+    "appName": "Audio Recording app",
+    "appDescription": "Audio recorder application for your convenience in daily activities. Application in design is very simple and easy to edit recorded audio.",
+    "url": "https://play.google.com/store/apps/details?id=com.audiosmaxs.audiorecorder",
+    "enableWeb":false
+  },
+  {
+    "appIcon": "https://play-lh.googleusercontent.com/XyBxT_J0dOA-xS46Nba8ikA-2sKp4B83QNigMCTU7uxLBgAMzXkmnDacBiy_YyGv0g=s180-rw",
+    "titleBy": "by GarApp Properti",
+    "appName": "Bass Booster For Media Player",
+    "appDescription": "Download Aplikasi kataloog sekarang juga ! jadikan bagian dari usaha kamu supaya bisa terhubung dengan ribuan pembeli dan penjual lainnya.",
+    "url": "https://play.google.com/store/apps/details?id=com.kataloog.id",
+    "enableWeb":false
+  },
+  {
+    "appIcon": "https://play-lh.googleusercontent.com/qTazMbgg7qFX4ddTjeU9m-C8lapxLWVR0WiQttr5rF-L5_FvwW8_xdlLl1qSk6xP4wY=s180-rw",
+    "titleBy": "by AudiosMaxs",
+    "appName": "Bass Booster For Media Player",
+    "appDescription": "Easily makes your music player have an amazing Bass Booster & Equalizer sound effect.",
+    "url": "https://play.google.com/store/apps/details?id=audiosmaxs.music.equalizer.bassbooster.virtualizer",
+    "enableWeb":false
+  },
+   {
+    "appIcon": "https://play-lh.googleusercontent.com/fBklvMYmh3FlB6dB7d9Rrj2I1XVsfbRGoASyoFCk8K4qezzyg5pr9f5-P8laek77gg=s180-rw",
+    "titleBy": "by Cakrawala Apps",
+    "appName": "Multimedia Player",
+    "appDescription": "If you're looking for a Multimedia Player with Equalizer and Bass Booster, then this is the app you're looking for.",
+    "url": "https://play.google.com/store/apps/details?id=io.audiosmaxs.musicplayerpremium",
+    "enableWeb":false
+  },
+   {
+    "appIcon": "https://play-lh.googleusercontent.com/lN7xB_tJVFpT3467DK6DjGg5qcp8nf1qeQu33CTl3Tpdp_1XLXZhqn5vbBJiVvXAAd0=s180-rw",
+    "titleBy": "by AudiosMaxs",
+    "appName": "Audio Recorder With Effect",
+    "appDescription": "Record songs, sounds, instruments, podcasts, rehearsals, voice memos, ideas, lyrics, beats, and more with incredible audio quality!",
+    "url": "https://play.google.com/store/apps/details?id=com.audiorecorder.effect",
+    "enableWeb":false
+  },
+  {
+    "appIcon": "https://play-lh.googleusercontent.com/GQXewtNM6jU0xx050pUNUw6AXRq397vuoPzIbYPrVkZ1L0SHXK74QxgkYYEkY6ZbmyBI=s180-rw",
+    "titleBy": "by Cakrawala Apps",
+    "appName": "Bass YT",
+    "appDescription": "This application is specially designed for audio effects on Streaming music player applications, produces an amazing sound, gets optimal sound by activating the Bass Booster and Equalizer effects.",
+    "url": "https://play.google.com/store/apps/details?id=bass.booster.yt",
+    "enableWeb":false
+  },
+  
+ 
+]
