@@ -13,7 +13,7 @@
     "appName": "Kataloog Jual dan Beli",
     "appDescription": "Jadikan bagian dari usaha kamu supaya bisa terhubung dengan ribuan pembeli dan penjual lainnya.",
     "url": "https://play.google.com/store/apps/details?id=com.kataloog.id",
-    "enableWeb":false
+    "enableWeb":true
   },
   {
     "appIcon": "https://play-lh.googleusercontent.com/qTazMbgg7qFX4ddTjeU9m-C8lapxLWVR0WiQttr5rF-L5_FvwW8_xdlLl1qSk6xP4wY=s180-rw",
