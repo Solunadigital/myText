@@ -30,16 +30,21 @@
     "appDescription": "If you're looking for a Multimedia Player with Equalizer and Bass Booster, then this is the app you're looking for.",
     "url": "https://bit.ly/3GFGLWc",
     "enableWeb":false
-  },
-   {
+  },{
+    "appIcon": "https://raw.githubusercontent.com/Solunadigital/myText/main/edfiertws.png",
+    "titleBy": "Offered by EDIFIER",
+    "appName": "EDIFIER 330NB Best ultra-cheap",
+    "appDescription": "Hybrid Active Noise Cancelling TWS Wireless Earbuds, ANC Bluetooth Earbuds, AI Phone Call Moise Cancellation, AAC HD decoding, IP54 Waterproof, Quick Charge, Deep Base",
+    "url": "https://amzn.to/3gYXPL4",
+    "enableWeb":true
+  },{
     "appIcon": "https://play-lh.googleusercontent.com/lN7xB_tJVFpT3467DK6DjGg5qcp8nf1qeQu33CTl3Tpdp_1XLXZhqn5vbBJiVvXAAd0=s180-rw",
     "titleBy": "Offered by AudiosMaxs",
     "appName": "Audio Recorder With Effect",
     "appDescription": "Record songs, sounds, instruments, podcasts, rehearsals, voice memos, ideas, lyrics, beats, and more with incredible audio quality!",
     "url": "https://bit.ly/recoderfxad",
     "enableWeb":false
-  },
-  {
+  },{
     "appIcon": "https://play-lh.googleusercontent.com/GQXewtNM6jU0xx050pUNUw6AXRq397vuoPzIbYPrVkZ1L0SHXK74QxgkYYEkY6ZbmyBI=s180-rw",
     "titleBy": "Offered by Cakrawala Apps",
     "appName": "Bass YT",
@@ -53,6 +58,13 @@
     "appDescription": "Free and easy to use audio recorder for Android, the best audio recorder with amazing audio quality! it's free.",
     "url": "https://bit.ly/adrecodLite",
     "enableWeb":false
+  },{
+    "appIcon": "https://raw.githubusercontent.com/Solunadigital/myText/main/edfiertws.png",
+    "titleBy": "Offered by EDIFIER",
+    "appName": "EDIFIER 330NB Best ultra-cheap",
+    "appDescription": "Hybrid Active Noise Cancelling TWS Wireless Earbuds, ANC Bluetooth Earbuds, AI Phone Call Moise Cancellation, AAC HD decoding, IP54 Waterproof, Quick Charge, Deep Base",
+    "url": "https://amzn.to/3gYXPL4",
+    "enableWeb":true
   }
   
  
