@@ -93,6 +93,13 @@
     "appDescription": "Download the Makrosell app now to buy and sell new and used items easier than in a garage or shopping store.",
     "url": "https://bit.ly/makrosell",
     "enableWeb":false
+  },{
+    "appIcon": "https://play-lh.googleusercontent.com/qLldDlry6AnPWPF5tX1HzZOkw1vmeubGSKbyPm16fmmqWbZmG8TUAu2Zr7GIcHcEahDO=w240-h480-rw",
+    "titleBy": "Offered by GarApp Properti",
+    "appName": "GarApp Property - Sell & Buy",
+    "appDescription": "GarApp Property is committed to changing the property buying and selling experience to be easier, safer, more profitable.",
+    "url": "https://bit.ly/garapps",
+    "enableWeb":false
   }
   
  
