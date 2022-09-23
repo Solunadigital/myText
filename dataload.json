@@ -107,7 +107,15 @@
     "appDescription": "This is a very simple Eq Music Player - Mp3 Player, and it can be personalized very easily.",
     "url": "https://bit.ly/maxsmusic",
     "enableWeb":false
+  },{
+    "appIcon": "https://play-lh.googleusercontent.com/TlmpS275phCUefQO1tL4PYuqFM8zuYJpCZVUo94UDj1zWpRTUcXpH5eW3cs7yohMJw=w240-h480-rw",
+    "titleBy": "Offered by AudiosMaxs",
+    "appName": "Tagger - Auto Musik Tag Editor & Lyrics",
+    "appDescription": "Search Tags & Lyrics will automatically find in seconds",
+    "url": "https://bit.ly/tag_editor",
+    "enableWeb":false
   }
+  
   
  
 ]
